@@ -1,5 +1,5 @@
 # GET-PSXGAMESERIAL
-Console application (.NET 4.5) to obtain PSX game serial number from disc image.
+Console application (.NET 4.0) to obtain PSX game serial number from disc image.
 
 Supports only valid *.cue, *.ccd or *.toc
 
